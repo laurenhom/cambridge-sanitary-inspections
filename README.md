@@ -1,7 +1,7 @@
-# Cambridge Sanitary Inspections 2021-2024
+# Cambridge Sanitary Inspections
 Created: March 2024
 
-ETL and EDA process for analyzing sanitary inspection data from Cambridge Open Data.
+ETL and EDA process for analyzing sanitary inspection data from Cambridge Open Data. At the time of this project, data from October 2021 to March 2024
 
 This project is based on the [Cambridge Open Data Program Civic Innovation Challenge Inventory](https://data.cambridgema.gov/General-Government/Civic-Innovation-Challenge-Inventory/x96z-hdnh/about_data). Data comes from the [Sanitary Inspections dataset](https://data.cambridgema.gov/Inspectional-Services/Sanitary-Inspections/ryb9-qzmw/about_data) and the question to be answered based on the dataset is: 
 
