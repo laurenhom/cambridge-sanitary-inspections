@@ -9,8 +9,7 @@ This project is based on the [Cambridge Open Data Program Civic Innovation Chall
 How can Cambridge better utilize and present this data to protect public health and safety and improve community access to inspection information?
 </blockquote>
 
-Each row in the dataset is an inspection result. This exploratory data analysis (EDA) is in preparation with building a [Tableau dashboard](https://public.tableau.com/shared/TXZW9RWPZ?:display_count=n&:origin=viz_share_link) to address this question. 
+Each row in the dataset is an inspection result. This exploratory data analysis (EDA) is in preparation with building a [Tableau dashboard]([https://public.tableau.com/shared/TXZW9RWPZ?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CambridgeSanitaryInspections2021-2024/CambridgeSanitaryInspections2021-2024?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)) to address this question. 
 
 The project is not intended to ridicule or diminish any particular establishment, but rather to educate the City of Cambridge and its residents. For more information on sanitary codes, see food sanitary codes for Massachusetts: [105 CMR 590.00: State sanitary code chapter X: Minimum sanitation standards for food establishments)
 ](https://www.mass.gov/doc/merged-food-code-111618/download). Neighborhoods in Tableau Dashboard comee from the [Cambridge Neighborhoods spatial files](https://data.cambridgema.gov/Geographic-Information-GIS-/Cambridge-Neighborhood-Polygons/k3pi-9823/about_data) on the Cambridge Open Data site.
-
