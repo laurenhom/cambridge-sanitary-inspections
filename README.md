@@ -13,3 +13,8 @@ Each row in the dataset is an inspection result. This exploratory data analysis 
 
 The project is not intended to ridicule or diminish any particular establishment, but rather to educate the City of Cambridge and its residents. For more information on sanitary codes, see food sanitary codes for Massachusetts: [105 CMR 590.00: State sanitary code chapter X: Minimum sanitation standards for food establishments)
 ](https://www.mass.gov/doc/merged-food-code-111618/download). Neighborhoods in Tableau Dashboard comee from the [Cambridge Neighborhoods spatial files](https://data.cambridgema.gov/Geographic-Information-GIS-/Cambridge-Neighborhood-Polygons/k3pi-9823/about_data) on the Cambridge Open Data site.
+
+## Repository Files:
+1. [Cambridge Sanitary Inspections Project.ipynb]([Cambridge Sanitary Inspections Project.ipynb](https://github.com/laurenhom/cambridge-sanitary-inspections/blob/main/Cambridge%20Sanitary%20Inspections%20Project.ipynb)) — Jupyter notebook containing ETL and EDA
+2. [Sanitary_Inspections_20240324.csv](Sanitary_Inspections_20240324.csv) — Sanitary Inspections dataset downloaded from [Cambridge Open Data Sanitary Inspections site]([url](https://data.cambridgema.gov/Inspectional-Services/Sanitary-Inspections/ryb9-qzmw/about_data)), used for Tableau dashboard
+3. [Cambridge_Neighborhood_Polygons_20240324.csv](Cambridge_Neighborhood_Polygons_20240324.csv) — Polygon files of Cambridge neighborhoods from [Cambridge OPen Data Cambridge Neighborhood Polygons site]([url](https://data.cambridgema.gov/Inspectional-Services/Sanitary-Inspections/ryb9-qzmw/about_data)) used to create Tableau Dashboard
